@@ -1,0 +1,1 @@
+MyTable:col1=INTEGER,col2=STRING,
